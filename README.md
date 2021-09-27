@@ -13,3 +13,8 @@ sudo kill **pid**
 
 ### Просмотр входящего траффика
 sudo tcpdump port **port** -i **interface**
+
+
+### История
+history
+!**number**
