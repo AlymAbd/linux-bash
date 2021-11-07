@@ -1,5 +1,6 @@
 # TESTED ON FEDORA 35 k5.14
 sudo dnf update -y
+sudo dnf install -y gcc gcc-c++
 
 
 # DOCKER
